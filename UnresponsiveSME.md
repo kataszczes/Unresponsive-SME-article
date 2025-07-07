@@ -1,4 +1,4 @@
-# How to Work with Unsupportive SMEs
+# How to work with unsupportive SMEs
 Technical writers create specialised content regarding products and services by using their writing skills to explain complex concepts and instructions in a digestible way for specific target audiences. While they are required to possess knowledge about said products and services, they depend on a number of people — such as developers, product owners, SMEs and other stakeholders — to provide them with necessary information and support. Having a SME who isn't engaged with a project is a rough situation, but definitely one many technical writers have experienced at some point. It’s therefore good to know some strategies to approach an unresponsive SME and make them… well, responsive. Let’s explore them!
 
 ### Find out why they aren’t responding
