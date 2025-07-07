@@ -1,1 +1,17 @@
+# How to Work with Unsupportive SMEs
+Technical writers create specialised content regarding products and services by using their writing skills to explain complex concepts and instructions in a digestible way for specific target audiences. While they are required to possess knowledge about said products and services, they depend on a number of people — such as developers, product owners, SMEs and other stakeholders — to provide them with necessary information and support. Having a SME who isn't engaged with a project is a rough situation, but definitely one many technical writers have experienced at some point. It’s therefore good to know some strategies to approach an unresponsive SME and make them… well, responsive. Let’s explore them!
 
+### Find out why they aren’t responding
+Always assume SMEs want to share their knowledge, but something is preventing them from doing it. Approach this issue with an open mind and a genuine interest to find out what’s in their way. If you ask the right questions, you can “fix” the vast majority of problem SMEs.
+The most common reason SMEs are unresponsive is that they have other priorities. They often view being an SME as a “second job” in addition to their “main, productive job”, and may not understand the importance, or urgency, of them sharing their expertise with you. We all make time for what’s important so being upfront with the SME about the impact of avoiding you may encourage them to cooperate.
+
+### Communicate on their terms
+Sometimes it's less about the lack of time but more that the collaboration method you're using is inconvenient for the SME. If a meeting doesn't work, maybe asynchronous collaboration would be a better choice. Try switching from digital reviews to paper ones or collaborating via chat, phone or email. Ask them if there's a different approach they find easier to fit into their busy schedule. Once you find out, try to stick to that.
+
+### Come prepared
+Nobody likes to have their time wasted so make sure to communicate effectively. Always come prepared with enough information to help them share their expertise in a way that does not require too much energy and time from them. Prepare good, purposeful questions and make sure that anything you ask cannot be easily found elsewhere. Be organised and do everything you can to cut down the time you require from them. Show them that you are not just passively waiting for them to lay down their cards, be proactive and demonstrate that you also have done your homework.
+
+### Escalate appropriately
+If you have done everything in your power and an unsupportive SME is blocking you on an important project, escalate based on your company's policy. This is perhaps the most severe of ways to handle an unresponsive SME, but it sometimes becomes necessary to maintain workflows and keep deadlines.
+
+In conclusion, while dealing with an unsupportive SME can be a tough challenge for technical writers, it is not an insurmountable one. By understanding the reasons behind their lack of engagement, adapting your communication methods to suit their preferences, coming well-prepared to maximise efficiency, and escalating only when absolutely necessary, you can foster a more productive collaboration. The key lies in being empathetic, proactive, adaptable and solution-oriented, which not only improves your chances of success but also strengthens your professional relationships.
