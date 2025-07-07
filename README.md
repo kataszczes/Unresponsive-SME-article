@@ -1,4 +1,4 @@
-# How to working with unresponsive SMEs
+# How to work with unsupportive SMEs
 
 ## Disclaimer
 
@@ -6,4 +6,4 @@ This article was created solely as part of a postgraduate studies project. It re
 
 ## Overview
 
-This article provides practical guidance and strategies for effectively engaging with an unresponsive Subject Matter Expert (SME) during research or professional projects. It explores communication challenges, proactive approaches, and real-world solutions based on academic frameworks and project management principles.
+This article provides practical guidance and strategies for effectively engaging with an unsupportive subject matter expert (SME) during research or professional projects. It explores communication challenges, proactive approaches, and real-world solutions based on academic frameworks and project management principles.
